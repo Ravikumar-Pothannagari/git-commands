@@ -41,6 +41,7 @@ This command commits any files you’ve added with the git add command and also 
  
 # git diff
 This command shows the file differences which are not yet staged.
+	
 	Usage: git diff  
 
 This command shows the differences between the files in the staging area and the latest version present. 
