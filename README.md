@@ -2,13 +2,14 @@
 Git Commands:
 
 # git config
-This command sets the author's name and email address respectively to be used with your commits.
+This command sets the author's name respectively to be used with your commits.
 
 	git config –global user.name "[name]" 
-	
-	git config –global user.email "[email address]"  
 
- 
+This command sets the email address respectively to be used with your commits.
+
+	git config –global user.email "[email address]"
+	
 # git init
 This command is used to start a new repository.
 
